@@ -11,7 +11,7 @@ Master branch contains latest version released. Trunk branch is an active develo
 
 ## Documentation
 Available on [Read the Docs](https://noiseprotocol.readthedocs.io). For now it provides basic documentation on 
-HandshakeState, CipherState and SymmetricState. Refer to the rest of the README below for more information.
+HandshakeState, CipherState and SymmetricState. Refer to the rest of the README below for more information. 
 
 ## Installation and prerequisites
 Only Python 3.5+ is supported.
